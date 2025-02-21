@@ -42,7 +42,7 @@ export default function Home() {
 
   return (
     <div className="p-4 max-w-xl mx-auto">
-      <h1 className="text-2xl font-bold mb-4">BFHL Challenge</h1>
+      <h1 className="text-2xl font-bold mb-4">22BCS14274</h1>
       <textarea
         className="w-full p-2 border rounded bg-gray-500 text-white"
         value={jsonInput}
